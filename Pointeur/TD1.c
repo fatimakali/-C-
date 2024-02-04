@@ -1,5 +1,5 @@
+//Fatima Nour ; BTS ciel 1
 //  Chapitre 5 TD1
-
 //QUESTION 3
 //Ecrire une fonction de prototype void saisie(int *val,int *nb) qui permet de faire la saisie d’entiers différents de 0(au maximum 20) et de les stocker où pointe val. Ladernière valeur entrée devra être 0. Le paramètre nb permet de stocker le nombre de valeurs qui ont été entrées.
 //Vous définirez une fonction affiche qui permet d’afficher les nb valeurs lues dans la fonction saisie.
